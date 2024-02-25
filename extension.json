@@ -1,0 +1,7 @@
+{
+  "name": "Just",
+  "version": "0.0.1",
+  "authors": ["Joseph Lyons <JosephTLyons@gmail.com>"],
+  "description": "Just language support for Zed",
+  "repository": "https://github.com/JosephTLyons/zed-just"
+}
